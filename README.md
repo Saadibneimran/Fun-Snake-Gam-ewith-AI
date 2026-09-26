@@ -1,3 +1,4 @@
+https://saadibneimran.github.io/Fun-Snake-Gam-ewith-AI/
 # Cursor Snake
 
 Open `index.html` directly in a browser (double-click it, or use a local
